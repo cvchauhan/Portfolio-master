@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.netlify/
+.prerender/
+.env
+.env.*
+!.env.example
+.qa-*
